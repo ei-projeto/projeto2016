@@ -1,1 +1,3 @@
-Hello world
+git add
+git commit -m "dizer algo"
+git push origin master
